@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: blue;
+}
+.nav {
+  
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+}
+.a {
+  text-decoration: none;
+  margin-inline: 80px;
+  font-size: 18px;
+  color: aliceblue;
+  font-weight: bolder;
+}
+.a:hover {
+  color: yellow;
+}
+.main {
+  width: 100%px;
+  height: 800px;
+  background-image: url(pexels-matthis-2130516.jpg);
+  background-size: 100%;
+}

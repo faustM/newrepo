@@ -1,0 +1,85 @@
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: grid;
+}.nav{
+    background-color: blue;
+}
+.ul {
+    list-style: none;
+    display: flex;
+    height: 25px;
+  }
+  .a {
+    text-decoration: none;
+    margin-inline: 80px;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: bolder;
+   
+  }
+  .a:hover {
+    color: yellow;
+  }
+  .main {
+    width: 100%px;
+    height: 800px;
+    background-image: linear-gradient(rgb(89, 190, 86),rgba(95, 93, 163, 0.5)),url(pexels-john-guccione-wwwadvergroupcom-3483098.jpg);
+    background-size: 100%;
+  }
+  #a{
+      font-size: 30px;
+      background-color: rgb(33, 180, 65);
+      border:solid 2px white);
+      padding:10px 5px;
+      margin-bottom:2px;
+
+  }
+  #a:hover{
+      background-color: rgb(210, 210, 255);
+  }
+  .b{
+      color: blue;
+      font-size:20px;
+      text-decoration: none;
+  }
+.b:hover{
+    color:white;
+    text-shadow: 2px;
+}
+h1{
+    width:700px;
+    margin-left:200px;
+    text-align: center;
+    color: brown;
+    background-color:mediumaquamarine;
+    border-radius: 10% 10% 10% 10%;
+    
+
+}
+p1{
+    font-size: 20px;
+}
+.header{
+    text-align: center;
+    color:grey;
+    font-size: 25px;
+}
+.login{
+    width: 250px;
+    display: block;
+    margin-left:400px;
+}
+label{
+    font-style: italic;
+    color:aqua
+}
+.input{
+    background:transparent;
+    border:none;
+    border-bottom: 0.5px solid blue;
+    width:370px;
+    padding-top:10px;
+    padding-bottom:px;
+
+}
